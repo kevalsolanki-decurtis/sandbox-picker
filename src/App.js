@@ -21,6 +21,9 @@ export default function App() {
     }));
   };
 
+  console.log("Change made");
+  console.log("change made 2");
+
   const setKeyValue = (arr) => {
     return arr.map((item) => {
       const dataSet = {
