@@ -43,7 +43,7 @@ export default function App() {
   };
   const optionGroups = {
     title: ["Mr.", "Mrs.", "Ms.", "Dr."],
-    firstName: ["John", "Micheal", "Elizabeth"],
+    firstName: ["Karan", "Micheal", "Elizabeth"],
     secondName: ["Lennon", "Jackson", "Jordan", "Legend", "Taylor"]
   };
 
